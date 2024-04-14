@@ -1,0 +1,72 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #d1bcba; !important
+  color: #333;
+  margin: 0;
+  padding: 0;
+}
+input{
+	border-radius: 5px;
+}
+.container {
+  width: 90%;
+  max-width: 1000px;
+  margin: 0 auto;
+  padding: 30px;
+  background-color: #fff;
+  border-radius: 20px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 20px;
+}
+
+th, td {
+  padding: 8px;
+  text-align: left;
+  border-bottom: 1px solid #ddd;
+}
+
+th {
+  background-color: #f2f2f2;
+}
+
+tr:nth-child(even) {
+  background-color: #f2f2f2;
+}
+
+.author-details-popup {
+  display: none;
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background-color: white;
+  padding: 20px;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  z-index: 999;
+}
+
+.author-details-popup h2 {
+  margin-top: 0;
+}
+
+.book-section {
+  margin-top: 20px;
+}
+
+.book-section input, .book-section button {
+  margin-right: 10px;
+}
+/* Adaugare stil pentru noile campuri despre autor */
+.book-section input[type="text"] {
+  margin-bottom: 10px;
+}
+
+.book-section input[type="number"] {
+  margin-bottom: 10px;
+}

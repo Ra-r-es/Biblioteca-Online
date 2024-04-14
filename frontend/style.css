@@ -1,0 +1,101 @@
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #1e1e1e;
+  color: #ffffff;
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  width: 90%;
+  max-width: 1000px;
+  margin: 0 auto;
+  padding: 30px;
+  background-color: #2b2b2b;
+  border-radius: 20px;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.3);
+}
+
+.title {
+  color: #00ff00;
+}
+
+.book-section {
+  margin-top: 20px;
+}
+
+.book-section input,
+.book-section button {
+  margin-right: 10px;
+}
+
+.author-details-popup {
+  display: none;
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background-color: #5c5b5b;
+  padding: 20px;
+  border: 1px solid #333;
+  border-radius: 10px;
+  z-index: 999;
+  color: #ffffff;
+}
+
+.author-details-popup h2 {
+  margin-top: 0;
+}
+
+
+.book-section input[type="text"],
+.book-section input[type="number"] {
+  margin-bottom: 10px;
+  background-color: rgba(255, 255, 255, 0.1);
+  border: none;
+  padding: 10px;
+  color: #ffffff;
+  border-radius: 5px;
+  outline: none;
+}
+
+.book-section input[type="text"]::placeholder,
+.book-section input[type="number"]::placeholder {
+  color: rgba(255, 255, 255, 0.5);
+}
+
+.book-section button {
+  background-color: #00ff00;
+  color: #ffffff;
+  border: none;
+  padding: 10px 20px;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+.book-section button:hover {
+  background-color: #00cc00;
+}
+
+/* Animații */
+@keyframes fadeIn {
+  from {
+      opacity: 0;
+  }
+
+  to {
+      opacity: 1;
+  }
+}
+
+
+th,
+td {
+    color: #ffffff; 
+}
+title{
+  color: #ffffff;
+}
+head{
+  color: white;
+}
