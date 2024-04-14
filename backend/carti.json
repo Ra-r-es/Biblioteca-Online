@@ -1,0 +1,177 @@
+[
+  {
+    "id": 1,
+    "titlu": "Vântul prin sprâncene",
+    "autor": {
+      "nume": "Mihail Sadoveanu",
+      "nationalitate": "română",
+      "data_nasterii": "5 noiembrie 1880",
+      "opere_importante": ["Hanul Ancuței", "Frații Jderi", "Creanga de aur"]
+    },
+    "pagini": 432,
+    "pret": 35.99,
+    "genuri": ["Fictiune", "Dramă"],
+    "recenzie": {
+      "titlu": "O capodoperă a literaturii române",
+      "descriere": "Un roman clasic care surprinde viața într-un sat moldovenesc din secolul al XIX-lea. Personajele bine conturate și descrierile vii fac din această carte o capodoperă a literaturii române."
+    }
+  },
+
+  {
+    "id": 2,
+    "titlu": "Moara cu noroc",
+    "autor": {
+      "nume": "Ioan Slavici",
+      "nationalitate": "română",
+      "data_nasterii": "18 ianuarie 1848",
+      "opere_importante": ["Mara", "Amintiri din copilărie"]
+    },
+    "pagini": 192,
+    "pret": 25.50,
+    "genuri": ["Fictiune", "Dramă"],
+    "recenzie": {
+      "titlu": "O poveste clasică a literaturii române",
+      "descriere": "O poveste în care intriga și tensiunea cresc progresiv, culminând într-un final neașteptat. Moara cu noroc este una dintre cele mai cunoscute opere ale literaturii române."
+    }
+  },
+
+  
+  {
+      "id": 3,
+      "titlu": "Enigma Otiliei",
+      "autor": {
+        "nume": "George Călinescu",
+        "nationalitate": "română",
+        "data_nasterii": "19 iunie 1899",
+        "opere_importante": ["Scrinul negru", "Scrisori"]
+      },
+      "pagini": 368,
+      "pret": 29.99,
+      "genuri": ["Fictiune", "Dramă"],
+      "recenzie": {
+        "titlu": "Un clasic al literaturii române",
+        "descriere": "O poveste complexă despre relațiile dintre membrii unei familii bogate din Bucureștiul începutului de secol XX. Personajele bine conturate și intrigile captivante fac din această carte unul dintre cele mai citite romane românești."
+      }
+  },
+  {
+      "id": 4,
+      "titlu": "Ion",
+      "autor": {
+        "nume": "Liviu Rebreanu",
+        "nationalitate": "română",
+        "data_nasterii": "27 noiembrie 1885",
+        "opere_importante": ["Pădurea spânzuraților", "Ciuleandra"]
+      },
+      "pagini": 240,
+      "pret": 27.50,
+      "genuri": ["Fictiune", "Dramă"],
+      "recenzie": {
+        "titlu": "Un clasic al literaturii române",
+        "descriere": "O poveste despre lupta dintre bine și rău, dezvăluind caracterul complex al protagonistului, Ion. Liviu Rebreanu surprinde viața într-un sat transilvănean și aspectele sociale și politice ale vremii, într-o manieră captivantă."
+      }
+  },
+  {
+      "id": 5,
+      "titlu": "Maitreyi",
+      "autor": {
+        "nume": "Mircea Eliade",
+        "nationalitate": "română",
+        "data_nasterii": "13 martie 1907",
+        "opere_importante": ["La țigănci", "Nunta în cer"]
+      },
+      "pagini": 192,
+      "pret": 22.90,
+      "genuri": ["Fictiune", "Dragoste"],
+      "recenzie": {
+        "titlu": "O poveste de dragoste pasională",
+        "descriere": "Maitreyi este o poveste de dragoste care explorează teme precum pasiunea, cultura și tabuurile sociale. Inspirată din experiența personală a autorului, această carte oferă o perspectivă fascinantă asupra iubirii și a întâlnirii dintre culturi."
+      }
+  },
+  {
+      "id": 6,
+      "titlu": "Moromeții",
+      "autor": {
+        "nume": "Marin Preda",
+        "nationalitate": "română",
+        "data_nasterii": "5 august 1922",
+        "opere_importante": ["Delirul", "Cel mai iubit dintre pământeni"]
+      },
+      "pagini": 560,
+      "pret": 42.80,
+      "genuri": ["Fictiune", "Dramă"],
+      "recenzie": {
+        "titlu": "O capodoperă a literaturii române",
+        "descriere": "Moromeții este o frescă a vieții țărănești din România interbelică. Marin Preda surprinde cu măiestrie conflictele sociale și psihologice ale personajelor, evidențiind complexitatea realității românești din acea perioadă."
+      }
+  },
+  {
+      "id": 7,
+      "titlu": "Ion Creangă",
+      "autor": {
+        "nume": "Ion Creangă",
+        "nationalitate": "română",
+        "data_nasterii": "1 martie 1837",
+        "opere_importante": ["Amintiri din copilărie", "Povestea lui Harap-Alb"]
+      },
+      "pagini": 176,
+      "pret": 19.99,
+      "genuri": ["Fictiune", "Poveste"],
+      "recenzie": {
+        "titlu": "Povești pline de farmec",
+        "descriere": "Ion Creangă este unul dintre cei mai cunoscuți scriitori români de literatură pentru copii. Poveștile lui pline de farmec și umor continuă să încânte atât copiii, cât și adulții din întreaga lume."
+      }
+  },
+  {
+      "id": 8,
+      "titlu": "Harap-Alb",
+      "autor": {
+        "nume": "Ioan Slavici",
+        "nationalitate": "română",
+        "data_nasterii": "18 ianuarie 1848",
+        "opere_importante": ["Mara", "Moara cu noroc"]
+      },
+      "pagini": 224,
+      "pret": 24.50,
+      "genuri": ["Fictiune", "Poveste"],
+      "recenzie": {
+        "titlu": "O poveste clasică pentru copii",
+        "descriere": "Harap-Alb este o poveste clasică a literaturii române pentru copii. Ioan Slavici reușește să creeze un univers magic și plin de aventuri, care continuă să captiveze imaginația copiilor de generații întregi."
+      }
+  },
+  {
+      "id": 9,
+      "titlu": "Ultima noapte de dragoste, întâia noapte de război",
+      "autor": {
+        "nume": "Camil Petrescu",
+        "nationalitate": "română",
+        "data_nasterii": "21 aprilie 1894",
+        "opere_importante": ["Patul lui Procust", "Act venețian"]
+      },
+      "pagini": 288,
+      "pret": 31.75,
+      "genuri": ["Fictiune", "Dramă"],
+      "recenzie": {
+        "titlu": "Un roman psihologic captivant",
+        "descriere": "Ultima noapte de dragoste, întâia noapte de război este un roman psihologic care explorează relațiile umane, dragostea și războiul. Camil Petrescu reușește să surprindă complexitatea psihologică a personajelor și să construiască o intrigă captivantă."
+      }
+  },
+  {
+      "id": 10,
+      "titlu": "Moromeții",
+      "autor": {
+        "nume": "Marin Preda",
+        "nationalitate": "română",
+        "data_nasterii": "5 august 1922",
+        "opere_importante": ["Delirul", "Cel mai iubit dintre pământeni"]
+      },
+      "pagini": 560,
+      "pret": 42.80,
+      "genuri": ["Fictiune", "Dramă"],
+      "recenzie": {
+        "titlu": "O capodoperă a literaturii române",
+        "descriere": "Moromeții este o frescă a vieții țărănești din România interbelică. Marin Preda surprinde cu măiestrie conflictele sociale și psihologice ale personajelor, evidențiind complexitatea realității românești din acea perioadă."
+      }
+  }
+]
+
+  
