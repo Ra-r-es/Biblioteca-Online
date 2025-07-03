@@ -9,7 +9,7 @@ const port = process.env.PORT || 3000;
 app.use(cors());
 app.use(express.json());
 
-const uri = "mongodb+srv://raresstancu:NASUS321@proiectbd.kmjscrk.mongodb.net/?retryWrites=true&w=majority";
+const uri = "mongodb+srv://raresstancu:parola123@proiectbd.kmjscrk.mongodb.net/?retryWrites=true&w=majority";
 const client = new MongoClient(uri);
 
 async function connectToDB() {
