@@ -2,7 +2,7 @@ const { MongoClient } = require('mongodb');
 const fs = require('fs');
 
 // MongoDB connection URI
-const uri = "mongodb+srv://raresstancu:NASUS321@proiectbd.kmjscrk.mongodb.net/?retryWrites=true&w=majority";
+const uri = "mongodb+srv://raresstancu:parola123@proiectbd.kmjscrk.mongodb.net/?retryWrites=true&w=majority";
 
 // JSON file path
 const jsonFilePath = "C:\\Users\\Rares\\Desktop\\bd proiect\\carti.json";
